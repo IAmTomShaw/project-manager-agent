@@ -1,0 +1,11 @@
+python-dotenv
+pydantic
+fastapi
+uvicorn
+openai
+requests
+websockets
+streamlit
+openai-agents
+pymongo
+motor
